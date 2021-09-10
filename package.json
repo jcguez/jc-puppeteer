@@ -1,0 +1,23 @@
+{
+  "name": "jc-puppeteer",
+  "version": "1.0.0",
+  "description": "Demo with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcguez/jc-puppeteer.git"
+  },
+  "author": "jcguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcguez/jc-puppeteer/issues"
+  },
+  "homepage": "https://github.com/jcguez/jc-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
